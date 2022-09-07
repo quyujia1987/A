@@ -3,6 +3,13 @@
 陕西卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8
 陕西卫视,https://php.52sf.ga/jmstvbf.php?id=114
 陕西卫视,http://117.148.179.156/PLTV/88888888/224/3221231408/index.m3u8
+陕西影视,http://111.20.33.93/PLTV/88888893/224/3221226360/index.m3u8
+陕西影视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226360/index.m3u8
+陕西生活,http://111.20.33.93/PLTV/88888893/224/3221226359/index.m3u8
+陕西公共,http://111.20.33.93/PLTV/88888893/224/3221226361/index.m3u8
+陕西新闻,http://111.20.33.93/PLTV/88888893/224/3221226357/index.m3u8
+陕西都市青春,http://111.20.33.93/PLTV/88888893/224/3221226358/index.m3u8
+陕西都市青春,http://livepull.sxiptv.cn/live/shanxi2taohd.m3u8?txSecret=056af01ddaa7bf9ded03eb3a6056c3c9&txTime=66666666
 西安新闻,http://stream2.xiancity.cn/xatv1/playlist.m3u8
 西安新闻,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 西安影视,http://stream2.xiancity.cn/xatv4/playlist.m3u8
