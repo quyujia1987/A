@@ -23,11 +23,11 @@
 西安信息,http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 西安移动电视,http://stream2.xiancity.cn/xatv7/sd/live.m3u8
 📺｜新闻合集,#genre#
+CCTV1,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
 CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225642/index.m3u8
 CCTV1,http://39.134.115.163:8080/TVOD/88888910/224/3221225618/index.m3u8
 CCTV1,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
-CCTV1,http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225804/index.m3u8
 CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225783/index.m3u8
 CCTV1,http://111.20.33.93/TVOD/88888888/224/3221225660/index.m3u8
 CCTV1,http://111.20.33.70/TVOD/88888893/224/3221226010/index.m3u8
