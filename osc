@@ -120,6 +120,7 @@
 {"name":"聚合","type":3,"url":"Demo"},
 {"name":"并发","type":2,"url":"Parallel"},
 {"name":"轮询","type":2,"url":"Sequence"},
+{"name":"线路","type":0,"url":"https://jx.bozrc.com:4433/player/?url="}],
 {"name":"线路1","type":1,"url":"https://play.fuqizhishi.com/gang0829/API.php?appkey=duibuqi0829&url="},
 {"name":"线路2","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="}, 
 {"name":"线路3","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="}, 	
